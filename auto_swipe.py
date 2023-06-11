@@ -26,3 +26,4 @@ if __name__ == "__main__":
     # ratio  -> chance of liking/disliking
     # sleep  -> amount of seconds to wait before swiping again
     session.like(amount=100, ratio="72.5%", sleep=1)
+    
